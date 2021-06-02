@@ -1,0 +1,16 @@
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\bin\Debug\net5.0\RockPaperScissors1.exe
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\bin\Debug\net5.0\RockPaperScissors1.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\bin\Debug\net5.0\RockPaperScissors1.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\bin\Debug\net5.0\RockPaperScissors1.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\bin\Debug\net5.0\RockPaperScissors1.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\bin\Debug\net5.0\ref\RockPaperScissors1.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\bin\Debug\net5.0\RockPaperScissors1.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\ref\RockPaperScissors1.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\RockPaperScissors1\obj\Debug\net5.0\RockPaperScissors1.genruntimeconfig.cache
