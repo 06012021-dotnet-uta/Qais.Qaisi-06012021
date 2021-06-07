@@ -1,0 +1,16 @@
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\bin\Debug\net5.0\Challange2.exe
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\bin\Debug\net5.0\Challange2.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\bin\Debug\net5.0\Challange2.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\bin\Debug\net5.0\Challange2.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\bin\Debug\net5.0\Challange2.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\bin\Debug\net5.0\ref\Challange2.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\bin\Debug\net5.0\Challange2.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\ref\Challange2.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\All Challange\Challange2\obj\Debug\net5.0\Challange2.genruntimeconfig.cache
