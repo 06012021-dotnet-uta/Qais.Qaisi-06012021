@@ -1,0 +1,16 @@
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\bin\Debug\net5.0\DelegateSimple.exe
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\bin\Debug\net5.0\DelegateSimple.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\bin\Debug\net5.0\DelegateSimple.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\bin\Debug\net5.0\DelegateSimple.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\bin\Debug\net5.0\DelegateSimple.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\bin\Debug\net5.0\ref\DelegateSimple.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\bin\Debug\net5.0\DelegateSimple.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\ref\DelegateSimple.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\DelegateSimple\obj\Debug\net5.0\DelegateSimple.genruntimeconfig.cache
