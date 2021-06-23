@@ -7,11 +7,12 @@
 trigger:
 - main
 
+
 pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'Qais.QaisiP0/P0Final/ShoppingP0/*.sln'
+  solution: 'Qais.QaisiP0/ShoppingMVC/ShoppingStoreMVC/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
@@ -33,3 +34,5 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+    
+
