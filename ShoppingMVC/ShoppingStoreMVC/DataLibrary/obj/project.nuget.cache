@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rg+xqP6+cPwueJtVKlxqDKkzb+mADnijQMQKiTXgeNUTn8z0vfpYAi1WJMgB/8Lvq9S8xbd39SuNSRTnPS0eQA==",
+  "dgSpecHash": "r9PBG5daeT933bOPn0L0dKUAx+k/Q8SAQoauXRYnSGuWystF5xrlnH+7NZDwvu6Ss8u9epk2DeLv5i36A5w4ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj",
+  "projectFilePath": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QQais\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\QQais\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

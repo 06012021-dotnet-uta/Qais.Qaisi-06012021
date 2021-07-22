@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RUt/JcbimkK7nTWHeMRJcKyVHVc0PT+/rNYg1F2IX+pGgi1fLsIzMGGSXWbXpfjkdgGIF1Tt47NaZ4iSPNXjkg==",
+  "dgSpecHash": "yTeGao9cs5P3ABHim6EhBq9nAYKKZNHJxot+kpWptmyoQtjurpNksEP0o0qV8d+PZGVU+BQRxcUQ9veYDpJ/jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj",
+  "projectFilePath": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QQais\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\QQais\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

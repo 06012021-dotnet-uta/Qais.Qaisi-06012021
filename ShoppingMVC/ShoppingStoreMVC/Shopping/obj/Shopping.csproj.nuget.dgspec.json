@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj": {}
+    "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj": {
+    "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj",
         "projectName": "DataLibrary",
-        "projectPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj",
+        "projectPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj",
         "packagesPath": "C:\\Users\\QQais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\obj\\",
+        "outputPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QQais\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,18 +72,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj": {
+    "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj",
+        "projectUniqueName": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj",
         "projectName": "Shopping",
-        "projectPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj",
+        "projectPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\Shopping.csproj",
         "packagesPath": "C:\\Users\\QQais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\obj\\",
+        "outputPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\Shopping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QQais\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj": {
-                "projectPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj"
+              "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "C:\\Users\\QQais\\OneDrive\\Desktop\\Qais Revature\\Qais.QaisiP0\\ShoppingMVC\\ShoppingStoreMVC\\DataLibrary\\DataLibrary.csproj"
               }
             }
           }
@@ -163,7 +163,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
